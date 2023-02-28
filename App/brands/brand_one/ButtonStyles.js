@@ -14,7 +14,7 @@ export default StyleSheet.create({
     color: "#060606",
   },
   button: {
-    backgroundColor: "#073642",
+    backgroundColor: "#060606",
     flex: 1,
     height: Math.floor(buttonWidth - 10),
     alignItems: "center",
@@ -50,7 +50,7 @@ export default StyleSheet.create({
     fontSize: 25,
   },
   buttonSecondary: {
-    backgroundColor: "#F0F5E8",
+    backgroundColor: "#B1CCB1",
   },
   buttonAccent: {
     backgroundColor: "#586e75",

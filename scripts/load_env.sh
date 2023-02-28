@@ -10,10 +10,10 @@
 # run yarn start —reset-cache (this resets all the styles from the previous loaded app)
 
 #Default brand
-export 'APP_BRAND'='default' 'BUNDLE_ID'='com.defaultwhitelabel.app' 'DISPLAY_NAME'='Default App'
+#export 'APP_BRAND'='default' 'BUNDLE_ID'='com.defaultwhitelabel.app' 'DISPLAY_NAME'='Default App'
 
 # Brand one
-#export 'APP_BRAND'='brand_one' 'BUNDLE_ID'='com.brandone.app' 'DISPLAY_NAME'='Brand One'
+export 'APP_BRAND'='brand_one' 'BUNDLE_ID'='com.brandone.app' 'DISPLAY_NAME'='Brand One'
 
 # Brand two
 #export 'APP_BRAND'='brand_two' 'BUNDLE_ID'='com.brandtwo.app' 'DISPLAY_NAME'='Brand Two'
