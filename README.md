@@ -20,7 +20,7 @@ Note: if you're not on Mac, you can use the `yarn configure-brand:android` inste
 
 # Building
 
-You can build four different versions of this app. One for each "brand": `brand_one`, `brand_teo`, `brand_three`,and the default.
+You can build four different versions of this app. One for each "brand": `brand_one`, `brand_two`, `brand_three`,and the default.
 
 # Running
 
