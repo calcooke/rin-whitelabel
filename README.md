@@ -29,9 +29,15 @@ When Metro is started automatically via react-native scripts, it does not contai
 
 `yarn android` or `yarn ios` will produce one of the following apps (depending on which ENVKEY is defined in the `.env` file).
 
+Default Whitelabel app
+
 ![Default branded app screenshot](docs/img/default.png)
 
+Brand One app
+
 ![Acme branded app screenshot](docs/img/brand_one.png)
+
+Brand Two app
 
 ![Calc_co branded app screenshot](docs/img/brand_two.png)
 
